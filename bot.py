@@ -20,4 +20,4 @@ async def on_message(message):
     if message.content == "!인증":
         await app.send_message(message.channel,"https://discord.com/channels/831033031648739368/886107201712820275/886107863574011924")
 
-app.run('ODg2NTIyMDI5OTc1Njc0OTIx.YT2z-g.bPwg0CTXUs2wdt51SlYaviM5yzI')
+app.run('ODg2NTIyMDI5OTc1Njc0OTIx.YT2z-g.VdGlYZqOgDXxDyVUQh7FGXENedY')
